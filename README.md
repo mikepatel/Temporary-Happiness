@@ -8,5 +8,6 @@ A simple text classifier
   * TensorFlow 2.1
 
 ## Dataset
+* dataset courtesy of (t-davidson)[https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data]
 
 ## Instructions
