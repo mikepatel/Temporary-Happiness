@@ -15,9 +15,9 @@ A simple text classifier
 * [model.py](https://github.com/mikepatel/Temporary-Happiness/blob/master/model.py) for model definition
 * [parameters.py](https://github.com/mikepatel/Temporary-Happiness/blob/master/parameters.py) for model parameters
 * [train.py](https://github.com/mikepatel/Temporary-Happiness/blob/master/train.py) for model training and prediction
- * temporarily using train.py to also perform inference (will save trained model in the future)
 
 ## Instructions
+Temporarily using train.py to train AND to also perform inference (will save trained model in the future)
 ```
 python train.py
 ```
