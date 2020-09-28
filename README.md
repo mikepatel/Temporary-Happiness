@@ -9,5 +9,6 @@ A simple text classifier
 
 ## Dataset
 * dataset courtesy of [t-davidson](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data)
+* **Choice of dataset is temporary and may be revisited!**
 
 ## Instructions
