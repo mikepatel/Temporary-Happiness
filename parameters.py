@@ -14,6 +14,7 @@ import tensorflow as tf
 DATA_DIR = os.path.join(os.getcwd(), "data")
 CSV_FILEPATH = os.path.join(DATA_DIR, "data.csv")
 PLOT_FILEPATH = os.path.join(os.getcwd(), "training_accuracy")
+SAVED_MODEL_FILEPATH = os.path.join(os.getcwd(), "saved_model")
 
 
 ################################################################################
